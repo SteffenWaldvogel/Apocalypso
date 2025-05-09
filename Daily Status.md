@@ -1,42 +1,17 @@
 Apocalypso
 
-stats:1x +3 perfekt, 2x +2 sehr gut, 5x +1 gut, 4x +0 ok, 2x -1 schlecht
-0 Sprachen
-1 Kunst
-2 Musik
-3 Geschichte
-4 Politik
-5 Erdkunde
-6 Wirtschaft
-7 Religion
-8 Mathe
-9 Physik
-10 Chemie
-11 Biologie
-12 Sport
-13 Psychologie
-
-Hobbies:
-Random, +1 auf stats die verwandt sind, +2 für die selbst
-
-
 Chars:
-- Jannik (nico) +proficiency Talking, class sytem unlocked, cooking, killing
-- Leo (marcolini) +proficiency scavenging, driving, lockpicking, killing
-- Francesco (Sandro) +proficiency scavenging, driving, killing
+- Jannik (nico) 
+- Leo (marcolini) 
+- Francesco (Sandro) 
 
 NPC:
-- Sarah - taken with (annoyed, a bit cautious), healing prof +1, perception prof +1
-- Noah - taken with (very annoyed, 1purple vein), 14 stunden seit sein dad ihn mitgenommen hat
+- Sarah - taken with 
+- Noah - taken with 
 
 - Matteo - left behind
 - Marcel - left behind
 - Timmy - killed indirectly by Leo
-
-Actions:
-- France: rolled over 1 Person, 1 Mutant | took his dads knive with him, +1 killing prof, +1 corruption
-- jannik: called mom, rolled 5 on Persuasion to take care of her and call Police, charges /criminal record: stealing, assault of a teacher, +1 throwing 
-- Sarah: fight with noah
 
 inventory:
 - 21 Konservern Suppe
@@ -68,6 +43,6 @@ inventory:
 
 Quest: 
 - Daily Quest: Defeat the first Level Tower Guardian to receive rewards. Time Remaining: 24 Hours. Penalty upon Failure: Death. Lvl 6
-- Strom??: Herald reserviert einen Stromgenerator (20L) im Gegenzug 0 weiteren Chrystal zum analysieren
+
 
 #timmy sollte leben
