@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4b243d119fd3224a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: app.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "956a5e08806c21e3",
+  "active": "4b243d119fd3224a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "🎭 Persona Manifestation Quest “Truth in Emotion”.md",
     "Daily Status - Day 5 Advance! Powerpaths..md",
     "Daily Status - Day 4.md",
@@ -203,7 +219,6 @@
     "Classes/Alchemical Savant.md",
     "Classes/Combat Medic.md",
     "Classes/Abyss Diver.md",
-    "Classes/Fortune's Fool.md",
     "Classes",
     "Untitled.canvas"
   ]
