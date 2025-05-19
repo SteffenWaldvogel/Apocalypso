@@ -1,17 +1,4 @@
-Apocalypso
-
-Chars:
-- Jannik (nico) 
-- Leo (marcolini) 
-- Francesco (Sandro) 
-
-NPC:
-- Sarah - taken with 
-- Noah - taken with 
-
-- Matteo - left behind
-- Marcel - left behind
-- Timmy - killed indirectly by Leo
+#story #quest #journal 
 
 inventory:
 - 21 Konservern Suppe
@@ -31,18 +18,20 @@ inventory:
 - 1 Zelt
 - 1 Packung batterien
 - 12 Feuerzeuge
-- 1Kanister mit je 20 L Benzin
+- 2 Kanister mit je 20 L Benzin
 - 1 Kanister leer
 - 1 Stimpack
 - 2 shortstaffs
 - 1 papshield
 - 1 Steelhands
-- 1 Brick "Erzi"
+- 3.5 corrupted chrystals
 - 1 bottle o wine 1994
-- Stromgenerator 20L, 5L/day usage
-
+- 8 half chrystal
+- 
 Quest: 
-- Daily Quest: Defeat the first Level Tower Guardian to receive rewards. Time Remaining: 24 Hours. Penalty upon Failure: Death. Lvl 6
-
+- Bring Herald Chrystals to purify, first 20 are free! (14/20) Time Remaining: 2 days
+- Daily Quest: Defeat the first Level Tower Guardian to receive rewards. Time Remaining: 24 Hours. Penalty upon Failure: Death. Lvl 4
+- Strom??: Herald reserviert einen Stromgenerator (20L) im Gegenzug 1 weiteren Chrystal zum analysieren
 
 #timmy sollte leben
+#herald is the bestest
