@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "4b243d119fd3224a",
+            "id": "f46ee80eb0314ad8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b243d119fd3224a",
+  "active": "f46ee80eb0314ad8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "🎭 Persona Manifestation Quest “Truth in Emotion”.md",
