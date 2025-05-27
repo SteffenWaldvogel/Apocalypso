@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Sarah Hirtz.md",
+                "file": "NPC/Sarah Hirtz.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Herald, The Fatebound Jester.md",
+                "file": "NPC/Herald, The Fatebound Jester.md",
                 "mode": "source",
                 "source": false
               },
@@ -90,9 +90,37 @@
               "icon": "lucide-file",
               "title": "Status Conditions"
             }
+          },
+          {
+            "id": "750b4266389aafdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Aric Sternhold - Powerpath Warden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aric Sternhold - Powerpath Warden"
+            }
+          },
+          {
+            "id": "03df6dba42486b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Noah Cicek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noah Cicek"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Herald, The Fatebound Jester.md",
+                "file": "Characters/Francesco Ricci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Herald, The Fatebound Jester"
+              "title": "Backlinks for Francesco Ricci"
             }
           },
           {
@@ -184,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Herald, The Fatebound Jester.md",
+                "file": "Characters/Francesco Ricci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Herald, The Fatebound Jester"
+              "title": "Outgoing links from Francesco Ricci"
             }
           },
           {
@@ -213,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Herald, The Fatebound Jester.md",
+                "file": "Characters/Francesco Ricci.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Herald, The Fatebound Jester"
+              "title": "Outline of Francesco Ricci"
             }
           }
         ],
@@ -241,18 +269,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86a892544ea379b4",
+  "active": "add158cfb219fb09",
   "lastOpenFiles": [
-    "Characters/Herald- Unleashed Token.png",
-    "Characters/Herald, The Fatebound Jester.md",
-    "Characters/Noah Cicek.png",
-    "Characters/Herald.png",
-    "Characters/Noah Cicek.md",
-    "Classes/Trickster.md",
-    "Characters/Sarah Hirtz.md",
-    "Characters/Francesco Ricci.md",
+    "NPC/Noah Cicek.md",
     "Characters/Leo Altmann.md",
+    "NPC/Aric Sternhold - Powerpath Warden.md",
     "Characters/Jannik Hammerer.md",
+    "NPC/Herald.png",
+    "NPC",
+    "NPC/Herald, The Fatebound Jester.md",
+    "Characters/Herald- Unleashed Token.png",
+    "NPC/Noah Cicek.png",
+    "Classes/Trickster.md",
+    "NPC/Sarah Hirtz.md",
+    "Characters/Francesco Ricci.md",
     "Status Conditions.md",
     "README.md",
     "Apocalypso Skill List.md",
@@ -261,9 +291,9 @@
     "Powerpaths",
     "Daily Status",
     "Characters",
-    "Characters/Herald - Fate's Personal Jester.png",
+    "NPC/Herald - Fate's Personal Jester.png",
     "Classes/Fatebound Jester.md",
-    "Characters/Sarah Hirtz.png",
+    "NPC/Sarah Hirtz.png",
     "Characters/Leo Altmann.png",
     "Characters/Jannik Hammerer.png",
     "Characters/Francesco Ricci.png",
@@ -278,7 +308,6 @@
     "Daily Status/Daily Status - Day 3.md",
     "Daily Status/Daily Status - Day 2 + 3.md",
     "Powerpaths/🧠 Memory Engraving Quest “Etched in Silence”.md",
-    "Classes/Field Medic.md",
     "Classes",
     "Untitled.canvas"
   ]

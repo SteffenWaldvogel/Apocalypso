@@ -8,7 +8,7 @@
 - **Personality:** ruhig · risikobereit · verlässlich · optimistisch  
 - **Backstory:**  
   > Francesco wurde in Sigmaringen geboren, doch die Wurzeln seiner Familie liegen tief in Süditalien. Mit viel Fleiß und unerschütterlichem Optimismus haben seine Eltern sich hier ein kleines, aber eigenes Zuhause aufgebaut. Als Einzelkind verbrachte er seine Freizeit mit Ballspielen – im Garten, auf dem Bolzplatz und schließlich in der Halle beim Volleyball. Seine Eltern lehrten ihn: „Wenn du etwas willst, musst du dafür arbeiten – aber wir glauben an dich.“ 
-- **Appearance:** Lockige dunkelbraune Haare, 182 cm, schlank mit leichten Muskeln, durchschnittlich sportlich, braune Augen.  
+- **Appearance:** Lockige dunkelbraune Haare ***ERROR*** **HAHA permanently changed to: langes geschmeidiges blaues Haar**, 182 cm, schlank mit leichten Muskeln, durchschnittlich sportlich, braune Augen.  
 - **Hobbies:** Volleyball · Fußball  
 ![[Francesco Ricci.png]]
 ---
