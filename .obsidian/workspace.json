@@ -11,13 +11,88 @@
             "id": "b9d07953204965d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Jannik Hammerer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jannik Hammerer"
+            }
+          },
+          {
+            "id": "10ce910cbcf70f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leo Altmann.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leo Altmann"
+            }
+          },
+          {
+            "id": "add158cfb219fb09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francesco Ricci.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Francesco Ricci"
+            }
+          },
+          {
+            "id": "7bd49ce05264f41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarah Hirtz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sarah Hirtz"
+            }
+          },
+          {
+            "id": "86a892544ea379b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Trickster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trickster"
+            }
+          },
+          {
+            "id": "8f796bc475a932a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herald, The Fatebound Jester.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Herald, The Fatebound Jester"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -70,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warlock.md",
+                "file": "Herald, The Fatebound Jester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Warlock"
+              "title": "Backlinks for Herald, The Fatebound Jester"
             }
           },
           {
@@ -110,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warlock.md",
+                "file": "Herald, The Fatebound Jester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Warlock"
+              "title": "Outgoing links from Herald, The Fatebound Jester"
             }
           },
           {
@@ -139,31 +213,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warlock.md",
+                "file": "Herald, The Fatebound Jester.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Warlock"
-            }
-          },
-          {
-            "id": "956a5e08806c21e3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Herald, The Fatebound Jester"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,34 +241,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "956a5e08806c21e3",
+  "active": "8f796bc475a932a8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Herald- Unleashed Token.png",
+    "Herald, The Fatebound Jester.md",
+    "Herald - Fate's Personal Jester.png",
+    "token_4.png",
+    "Sarah Hirtz.md",
+    "Classes/Trickster.md",
+    "Classes Overview.md",
+    "Classes/Fatebound Jester.md",
+    "Noah Cicek.md",
+    "Francesco Ricci.md",
+    "Leo Altmann.md",
+    "Jannik Hammerer.md",
+    "Sarah Hirtz.png",
+    "Leo Altmann.png",
+    "Apocalypso.md",
+    "Jannik Hammerer.png",
+    "Francesco Ricci.png",
     "🎭 Persona Manifestation Quest “Truth in Emotion”.md",
+    "2025-05-27.md",
+    "🧬 Echo Evolution Quest “Reshape Thy Flesh”.md",
+    "🔗 Soulbinding Path “The Echo of Chains”.md",
+    "🧬 Beast Path Quest DNA of the Fallen.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Daily Status - Day 5 Advance! Powerpaths..md",
     "Daily Status - Day 4.md",
     "Daily Status - Day 3.md",
     "Daily Status - Day 2 + 3.md",
-    "🧬 Beast Path Quest DNA of the Fallen.md",
-    "🧬 Echo Evolution Quest “Reshape Thy Flesh”.md",
     "🧠 Memory Engraving Quest “Etched in Silence”.md",
-    "🔗 Soulbinding Path “The Echo of Chains”.md",
-    "Jannik Hammerer.md",
-    "Untitled.md",
     "Classes/Field Medic.md",
     "Echo Evolution.md",
     "Memory Engraving.md",
-    "Classes Overview.md",
-    "Classes/Wild Card.md",
-    "Classes/Warlock.md",
-    "Classes/Living Fortress.md",
-    "Classes/Nomad.md",
-    "Classes/Iron Fist.md",
-    "Classes/Relic Hunter.md",
-    "Classes/Mind Weaver.md",
-    "Classes/Alchemical Savant.md",
-    "Classes/Combat Medic.md",
-    "Classes/Abyss Diver.md",
     "Classes",
     "Untitled.canvas"
   ]

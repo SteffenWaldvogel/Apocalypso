@@ -6,12 +6,12 @@
 - **Family:**  
   - Susanne Hammerer (Mutter)  
   - Paul Hammerer (Vater)  
-- **Companions:** Leo, Francesco  
+- **Companions:** Leo, Francesco , Sarah, Noah
 - **Personality:** Sporty · Helpful · Honest · “Not the smartest”  
 - **Backstory:**  
   > Lives alone with his mother. Has been active in many sports clubs and often trains. Father left the family at age 7; since then he’s shouldered extra responsibility caring for his mum.  
 - **Hobbies:** Kugelstoßen · Leichtathletik  
-
+![[Jannik Hammerer.png]]
 ---
 
 ## 2. Core Game Data
