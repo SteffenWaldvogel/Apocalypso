@@ -13,7 +13,7 @@
   > Noah was raised by his seamstress mother, Mia, in Sigmaringen’s winding alleys. When his Witchmark first flared on his forearm, she crafted the protective “Mother’s Mark” amulet to suppress its corrupting pull. His father Roberto—a high‐level Runeseeker himself, heavily touched by the Void—sees Noah’s burgeoning Echo Evolution as the key to greater power. Under Roberto’s stern tutelage, Noah studies his mutation’s echoes by day, while at night he wrestles with the fear of becoming merely a tool in his father’s designs.  
 - **Appearance:** slender build, pale skin, short black hair, grey eyes; always wears the glowing Mother’s Mark amulet  
 - **Hobbies:** sketching arcane sigils · reading ancient tomes  
-
+![[Noah Cicek.png]]
 ---
 
 ## 2. Core Game Data

@@ -6,7 +6,7 @@
 - **Alignment:** Beyond the System  
 - **Description:**  
   A walking oddball whose laughter cracks reality. Herald bears the Warhorn that can rend the veil of fate itself—he obeys no law but his own caprice, and what seems a jest today may break the world tomorrow.
-![[Herald- Unleashed Token.png]] + ![[token_4.png]]
+  ![[Herald.png]]
 
 
 ---

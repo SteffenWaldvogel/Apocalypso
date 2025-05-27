@@ -66,7 +66,6 @@ Conditions usually last:
 
 ### 🧠 Disoriented
 - Disadvantage on Attack Rolls and Ability Checks.
-- -2 Initiative next round if still active.
 
 ---
 
