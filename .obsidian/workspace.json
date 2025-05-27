@@ -11,116 +11,13 @@
             "id": "b9d07953204965d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Jannik Hammerer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jannik Hammerer"
-            }
-          },
-          {
-            "id": "10ce910cbcf70f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Leo Altmann.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leo Altmann"
-            }
-          },
-          {
-            "id": "add158cfb219fb09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Francesco Ricci.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Francesco Ricci"
-            }
-          },
-          {
-            "id": "7bd49ce05264f41d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Sarah Hirtz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sarah Hirtz"
-            }
-          },
-          {
-            "id": "86a892544ea379b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Herald, The Fatebound Jester.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Herald, The Fatebound Jester"
-            }
-          },
-          {
-            "id": "8f796bc475a932a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Status Conditions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Status Conditions"
-            }
-          },
-          {
-            "id": "750b4266389aafdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Aric Sternhold - Powerpath Warden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aric Sternhold - Powerpath Warden"
-            }
-          },
-          {
-            "id": "03df6dba42486b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Noah Cicek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Noah Cicek"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Francesco Ricci.md",
+                "file": "Warlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Francesco Ricci"
+              "title": "Backlinks for Warlock"
             }
           },
           {
@@ -212,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Francesco Ricci.md",
+                "file": "Warlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Francesco Ricci"
+              "title": "Outgoing links from Warlock"
             }
           },
           {
@@ -241,22 +139,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Francesco Ricci.md",
+                "file": "Warlock.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Francesco Ricci"
+              "title": "Outline of Warlock"
+            }
+          },
+          {
+            "id": "956a5e08806c21e3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,45 +176,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "add158cfb219fb09",
+  "active": "b9d07953204965d0",
   "lastOpenFiles": [
-    "NPC/Noah Cicek.md",
-    "Characters/Leo Altmann.md",
-    "NPC/Aric Sternhold - Powerpath Warden.md",
-    "Characters/Jannik Hammerer.md",
-    "NPC/Herald.png",
-    "NPC",
-    "NPC/Herald, The Fatebound Jester.md",
-    "Characters/Herald- Unleashed Token.png",
-    "NPC/Noah Cicek.png",
-    "Classes/Trickster.md",
-    "NPC/Sarah Hirtz.md",
-    "Characters/Francesco Ricci.md",
-    "Status Conditions.md",
-    "README.md",
-    "Apocalypso Skill List.md",
-    "Classes Overview.md",
-    "Apocalypso.md",
-    "Powerpaths",
-    "Daily Status",
-    "Characters",
-    "NPC/Herald - Fate's Personal Jester.png",
-    "Classes/Fatebound Jester.md",
-    "NPC/Sarah Hirtz.png",
-    "Characters/Leo Altmann.png",
-    "Characters/Jannik Hammerer.png",
-    "Characters/Francesco Ricci.png",
-    "Powerpaths/🎭 Persona Manifestation Quest “Truth in Emotion”.md",
-    "2025-05-27.md",
     "Powerpaths/🧬 Echo Evolution Quest “Reshape Thy Flesh”.md",
-    "Powerpaths/🔗 Soulbinding Path “The Echo of Chains”.md",
     "Powerpaths/🧬 Beast Path Quest DNA of the Fallen.md",
-    "conflict-files-obsidian-git.md",
+    "Powerpaths/🧠 Memory Engraving Quest “Etched in Silence”.md",
+    "Powerpaths/🔗 Soulbinding Path “The Echo of Chains”.md",
+    "Powerpaths/🎭 Persona Manifestation Quest “Truth in Emotion”.md",
+    "Powerpaths",
+    "NPC/Sarah Hirtz.md",
+    "NPC/Sarah Hirtz.png",
+    "NPC/Noah Cicek.md",
+    "NPC/Noah Cicek.png",
+    "NPC/Herald.png",
+    "NPC/Herald, The Fatebound Jester.md",
+    "NPC/Herald - Fate's Personal Jester.png",
+    "NPC/Aric Sternhold - Powerpath Warden.md",
+    "NPC",
+    "Daily Status/Daily Status - Day 2 + 3.md",
     "Daily Status/Daily Status - Day 5 Advance! Powerpaths..md",
     "Daily Status/Daily Status - Day 4.md",
     "Daily Status/Daily Status - Day 3.md",
-    "Daily Status/Daily Status - Day 2 + 3.md",
-    "Powerpaths/🧠 Memory Engraving Quest “Etched in Silence”.md",
+    "Daily Status",
+    "Characters/Leo Altmann.md",
+    "Characters/Leo Altmann.png",
+    "Characters/Jannik Hammerer.md",
+    "Characters/Jannik Hammerer.png",
+    "Characters/Francesco Ricci.png",
+    "Characters/Francesco Ricci.md",
+    "Characters",
+    "Apocalypso/Daily Status.md",
+    "conflict-files-obsidian-git.md",
+    "🎭 Persona Manifestation Quest “Truth in Emotion”.md",
+    "Daily Status - Day 5 Advance! Powerpaths..md",
+    "Daily Status - Day 4.md",
+    "Daily Status - Day 3.md",
+    "Daily Status - Day 2 + 3.md",
+    "🧬 Beast Path Quest DNA of the Fallen.md",
+    "🧬 Echo Evolution Quest “Reshape Thy Flesh”.md",
+    "🧠 Memory Engraving Quest “Etched in Silence”.md",
     "Classes",
     "Untitled.canvas"
   ]
