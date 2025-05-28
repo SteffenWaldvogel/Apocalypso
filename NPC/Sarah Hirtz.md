@@ -17,17 +17,17 @@
 ---
 
 ## 2. Core Game Data
-| Field                   | Value                             | Path |
-|-------------------------|-----------------------------------|------|
-| **Class**               | Combat Medic (Lv 5)               | –    |
-| **XP**                  | 1 / 20 needed                     |      |
-| **Corruption**          | 0 %                                |      |
-| **HP**                  | 45                                |      |
-| **Speed**               | 30 ft                             |      |
-| **AC**                  | 13 (+1 from Combat Vest)          |      |
-| **Mana**                | 51                                |      |
-| **Stamina**             | 93                                |      |
-| **Base-Stat Amplifier** | CON +5 · WIS +5                   |      |
+| Field                   | Value                    | Path |
+| ----------------------- | ------------------------ | ---- |
+| **Class**               | Combat Medic (Lv 5)      | –    |
+| **XP**                  | 1 / 20 needed            |      |
+| **Corruption**          | 0 %                      |      |
+| **HP**                  | 39                       |      |
+| **Speed**               | 30 ft                    |      |
+| **AC**                  | 13 (+1 from Combat Vest) |      |
+| **Mana**                | 51                       |      |
+| **Stamina**             | 89                       |      |
+| **Base-Stat Amplifier** | CON +5 · WIS +5          |      |
 
 ---
 

@@ -11,10 +11,14 @@
             "id": "b9d07953204965d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Leo Altmann.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leo Altmann"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,15 +181,19 @@
   },
   "active": "b9d07953204965d0",
   "lastOpenFiles": [
+    "Characters/Jannik Hammerer.md",
+    "Characters/Leo Altmann.md",
+    "Characters/Francesco Ricci.md",
+    "NPC/Noah Cicek.md",
+    "NPC/Sarah Hirtz.md",
+    "Daily Status/Daily Status - Day 5 Advance! Powerpaths..md",
     "Powerpaths/🧬 Echo Evolution Quest “Reshape Thy Flesh”.md",
     "Powerpaths/🧬 Beast Path Quest DNA of the Fallen.md",
     "Powerpaths/🧠 Memory Engraving Quest “Etched in Silence”.md",
     "Powerpaths/🔗 Soulbinding Path “The Echo of Chains”.md",
     "Powerpaths/🎭 Persona Manifestation Quest “Truth in Emotion”.md",
     "Powerpaths",
-    "NPC/Sarah Hirtz.md",
     "NPC/Sarah Hirtz.png",
-    "NPC/Noah Cicek.md",
     "NPC/Noah Cicek.png",
     "NPC/Herald.png",
     "NPC/Herald, The Fatebound Jester.md",
@@ -194,16 +201,12 @@
     "NPC/Aric Sternhold - Powerpath Warden.md",
     "NPC",
     "Daily Status/Daily Status - Day 2 + 3.md",
-    "Daily Status/Daily Status - Day 5 Advance! Powerpaths..md",
     "Daily Status/Daily Status - Day 4.md",
     "Daily Status/Daily Status - Day 3.md",
     "Daily Status",
-    "Characters/Leo Altmann.md",
     "Characters/Leo Altmann.png",
-    "Characters/Jannik Hammerer.md",
     "Characters/Jannik Hammerer.png",
     "Characters/Francesco Ricci.png",
-    "Characters/Francesco Ricci.md",
     "Characters",
     "Apocalypso/Daily Status.md",
     "conflict-files-obsidian-git.md",

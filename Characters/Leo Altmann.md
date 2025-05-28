@@ -17,17 +17,17 @@
 ---
 
 ## 2. Core Game Data
-| Field                  | Value                          | Path |
-|------------------------|--------------------------------|------|
-| **Class**              | Hustler (Lv 5)                 | –    |
-| **XP**                 | 1 / 20 needed                  |      |
-| **Corruption**         | 0 %                            |      |
-| **HP**                 | 19                             |      |
-| **Speed**              | 30 ft                          |      |
-| **AC**                 | 13 (+1 from Combat Vest)       |      |
-| **Mana**               | 44                             |      |
-| **Stamina**            | 38                             |      |
-| **Base-Stat Amplifier**| LCK +5.5                       |      |
+| Field                   | Value                    | Path |
+| ----------------------- | ------------------------ | ---- |
+| **Class**               | Hustler (Lv 5)           | –    |
+| **XP**                  | 1 / 20 needed            |      |
+| **Corruption**          | 0 %                      |      |
+| **HP**                  | 27                       |      |
+| **Speed**               | 30 ft                    |      |
+| **AC**                  | 13 (+1 from Combat Vest) |      |
+| **Mana**                | 63                       |      |
+| **Stamina**             | 44                       |      |
+| **Base-Stat Amplifier** | LCK +5.5                 |      |
 
 ---
 
@@ -96,14 +96,14 @@
 ---
 
 ## 5. Abilities & Feats
-| Name                 | Type                    | Effect                                                                                  | Duration         | Cost            | Notes               |
-|----------------------|-------------------------|-----------------------------------------------------------------------------------------|------------------|-----------------|---------------------|
-| **Lucky Day**        | Class Passive           | Einmal/Tag: 5 Min. „Lucky“ (autom. Buff)                                                | 5 Min            | —               | Count 3 / Threshold 10 |
-| **Greedy Rat**       | Class Passive           | +2 auf alle Scavenging-Checks                                                           | Permanent        | —               |                     |
-| **Mana Sense**       | Mana-Control Passive    | Umgebendes Mana spüren & auf rudimentärer Stufe kontrollieren                           | Permanent        | —               |                     |
-| **Last Straw**       | Class Passive           | Einmal langem Rest: Natural 1 rerollen ohne Nebenwirkung                                 | 1 / Longrest     | 5 Mana          | Count 0 / Threshold 10 |
-| **Wildcard Twist**   | Class Active            | Würfle 1d6 – 1–2: doppelt dmg; 3–4: unangreifbar; 5–6: random                           | End of next turn | 15 Mana         | Count 0 / Threshold 10 |
-| **Nuh uh! / Yuh uh!**| Class Passive           | Initiative: zusätzl. 1d20 (1–10 Auto-Taunt; 11–20 Anti-Taunt)                            | 1 Turn           | —               | Count 0 / Threshold 10 |
+| Name                  | Type                 | Effect                                                        | Duration         | Cost    | Notes                  |
+| --------------------- | -------------------- | ------------------------------------------------------------- | ---------------- | ------- | ---------------------- |
+| **Lucky Day**         | Class Passive        | Einmal/Tag: 5 Min. „Lucky“ (autom. Buff)                      | 5 Min            | —       | Count 3 / Threshold 10 |
+| **Greedy Rat**        | Class Passive        | +2 auf alle Scavenging-Checks                                 | Permanent        | —       |                        |
+| **Mana Sense**        | Mana-Control Passive | Umgebendes Mana spüren & auf rudimentärer Stufe kontrollieren | Permanent        | —       |                        |
+| **Last Straw**        | Class Passive        | Einmal langem Rest: Natural 1 rerollen ohne Nebenwirkung      | 1 / Longrest     | 5 Mana  | Count 0 / Threshold 10 |
+| **Wildcard Twist**    | Class Active         | Würfle 1d6 – 1–2: doppelt dmg; 3–4: unangreifbar; 5–6: random | End of next turn | 15 Mana | Count 0 / Threshold 10 |
+| **Nuh uh! / Yuh uh!** | Class Passive        | Initiative: zusätzl. 1d20 (1–10 Auto-Taunt; 11–20 Anti-Taunt) | 1 Turn           | —       | Count 0 / Threshold 10 |
 
 ---
 

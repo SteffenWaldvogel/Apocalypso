@@ -20,11 +20,11 @@
 | **Class**      | Street Brawler (Lv 5)    | -    |
 | **XP**         | 1 / 20 needed            |      |
 | **Corruption** | 20 %                     |      |
-| **HP**         | 29                       |      |
+| **HP**         | 37                       |      |
 | **Speed**      | 30 ft                    |      |
 | **AC**         | 14 (+1 from Combat Vest) |      |
 | **Mana**       | 36                       |      |
-| **Stamina**    | 86                       |      |
+| **Stamina**    | 92                       |      |
 
 ---
 

@@ -26,7 +26,7 @@
 | **Speed**                 | 30 ft                                        |
 | **AC**                    | 12 (+1 from Combat Vest)                     |
 | **Mana**                  | 57                                           |
-| **Stamina**               | 6                                            |
+| **Stamina**               | 5                                            |
 | **Base-Stat Amplifier**   | INT +1.5 · WIS +1.8                          |
 
 ---
