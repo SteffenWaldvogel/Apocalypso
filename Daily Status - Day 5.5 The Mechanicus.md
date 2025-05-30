@@ -1,18 +1,6 @@
 #story #quest #journal
-Apocalypso
-
-Chars:
-- Jannik (nico) 
-- Leo (marcolini) 
-- Francesco (Sandro) 
-
-NPC:
-- Sarah - taken with 
-- Noah - taken with 
-
-- Matteo - left behind
-- Marcel - left behind
-- Timmy - killed indirectly by Leo
+Day 5: Our group ventured on to find the Mechanics Store, able to try out their newfound power on the "biggest" enemy they faces thus far. Unfortunately, they never expected what they would find at the "Mechanicus"
+Leo's reunion with his father Wolfgang came sudden, and tragic. A promise was made, and a better ride acquired.
 
 inventory:
 - 21 Konservern Suppe
@@ -41,7 +29,11 @@ inventory:
 - 1 Brick "Erzi"
 - 1 bottle o wine 1994
 - Stromgenerator 20L, 5L/day usage
+- NEW TANK AMG
+
 
 Quest: 
 - Daily Quest: Defeat the first Level Tower Guardian to receive rewards. Time Remaining: 24 Hours. Penalty upon Failure: Death. Lvl 6
 
+Quotes of note:
+- "not my Francesco"

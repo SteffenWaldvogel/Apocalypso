@@ -51,29 +51,29 @@
 ### 4.1 Proficiency-Based Checks
 | Skill           | Key Stat | Current | Threshold | Max |
 |-----------------|:--------:|:-------:|:---------:|:---:|
-| Athletics       | STR      | 4       | 2         | 10  |
-| Acrobatics      | DEX      | 7       | 0         | 10  |
-| Sleight of Hand | DEX      | 7       | 0         | 10  |
-| Stealth         | DEX      | 7       | 0         | 10  |
-| Arcana          | INT      | 7       | 0         | 10  |
-| History         | INT      | 7       | 0         | 10  |
-| Investigation   | INT      | 7       | 0         | 10  |
-| Nature          | INT      | 7       | 0         | 10  |
-| Religion        | INT      | 7       | 0         | 10  |
-| Animal Handling | WIS      | 3       | 0         | 10  |
-| Insight         | WIS      | 3       | 0         | 10  |
-| Medicine        | WIS      | 3       | 0         | 10  |
-| Perception      | WIS      | 3       | 2         | 10  |
-| Survival        | WIS      | 3       | 0         | 10  |
-| Deception       | CHA      | 5       | 0         | 10  |
-| Intimidation    | CHA      | 5       | 0         | 10  |
-| Performance     | CHA      | 5       | 0         | 10  |
-| Persuasion      | CHA      | 5       | 0         | 10  |
-| Scavenging      | –        | 0       | 5         | 25  |
-| Driving         | –        | 0       | 1         | 10  |
-| Killing         | –        | 0       | 4         | 10  |
-| Intelligence    | –        | 0       | 1         | 10  |
-| Mana Control    | –        | 1       | 0         | 25  |
+| Athletics       | STR      | 4       |     2     | 10  |
+| Acrobatics      | DEX      | 7       |     0     | 10  |
+| Sleight of Hand | DEX      | 7       |     0     | 10  |
+| Stealth         | DEX      | 7       |     0     | 10  |
+| Arcana          | INT      | 7       |     0     | 10  |
+| History         | INT      | 7       |     0     | 10  |
+| Investigation   | INT      | 7       |     0     | 10  |
+| Nature          | INT      | 7       |     0     | 10  |
+| Religion        | INT      | 7       |     0     | 10  |
+| Animal Handling | WIS      | 3       |     0     | 10  |
+| Insight         | WIS      | 3       |     0     | 10  |
+| Medicine        | WIS      | 3       |     0     | 10  |
+| Perception      | WIS      | 3       |     3     | 10  |
+| Survival        | WIS      | 3       |     0     | 10  |
+| Deception       | CHA      | 5       |     0     | 10  |
+| Intimidation    | CHA      | 5       |     0     | 10  |
+| Performance     | CHA      | 5       |     0     | 10  |
+| Persuasion      | CHA      | 5       |     0     | 10  |
+| Scavenging      | –        | 0       |     6     | 25  |
+| Driving         | –        | 0       |     1     | 10  |
+| Killing         | –        | 0       |     4     | 10  |
+| Intelligence    | –        | 0       |     1     | 10  |
+| Mana Control    | –        | 1       |     0     | 25  |
 
 ### 4.2 Starter-Zeugnis
 | Area        | Modifier |
@@ -94,22 +94,26 @@
 | Psychologie | +1       |
 
 ---
-
 ## 5. Abilities & Feats
-| Name                  | Type                 | Effect                                                        | Duration         | Cost    | Notes                  |
-| --------------------- | -------------------- | ------------------------------------------------------------- | ---------------- | ------- | ---------------------- |
-| **Lucky Day**         | Class Passive        | Einmal/Tag: 5 Min. „Lucky“ (autom. Buff)                      | 5 Min            | —       | Count 3 / Threshold 10 |
-| **Greedy Rat**        | Class Passive        | +2 auf alle Scavenging-Checks                                 | Permanent        | —       |                        |
-| **Mana Sense**        | Mana-Control Passive | Umgebendes Mana spüren & auf rudimentärer Stufe kontrollieren | Permanent        | —       |                        |
-| **Last Straw**        | Class Passive        | Einmal langem Rest: Natural 1 rerollen ohne Nebenwirkung      | 1 / Longrest     | 5 Mana  | Count 0 / Threshold 10 |
-| **Wildcard Twist**    | Class Active         | Würfle 1d6 – 1–2: doppelt dmg; 3–4: unangreifbar; 5–6: random | End of next turn | 15 Mana | Count 0 / Threshold 10 |
-| **Nuh uh! / Yuh uh!** | Class Passive        | Initiative: zusätzl. 1d20 (1–10 Auto-Taunt; 11–20 Anti-Taunt) | 1 Turn           | —       | Count 0 / Threshold 10 |
+
+| Name                  | Type                 | Action Type  | Range | Effect                                                        | Duration         | Cost    | Count | Threshold |
+| --------------------- | -------------------- | ------------ | ----- | ------------------------------------------------------------- | ---------------- | ------- | ----- | --------- |
+| **Lucky Day**         | Class Passive        | Passive      | Self  | Einmal/Tag: 5 Min. „Lucky“ (autom. Buff)                      | 5 Min            | —       | 3     | 10        |
+| **Greedy Rat**        | Class Passive        | Passive      | Self  | +2 auf alle Scavenging-Checks                                 | Permanent        | —       | —     | —         |
+| **Mana Sense**        | Mana-Control Passive | Passive      | Self  | Umgebendes Mana spüren & auf rudimentärer Stufe kontrollieren | Permanent        | —       | —     | —         |
+| **Last Straw**        | Class Passive        | Reaction     | Self  | Einmal langem Rest: Natural 1 rerollen ohne Nebenwirkung      | 1 / Longrest     | 5 Mana  | 1     | 10        |
+| **Wildcard Twist**    | Class Active         | Bonus Action | Self  | Würfle 1d6 – 1–2: doppelt dmg; 3–4: unangreifbar; 5–6: random | End of next turn | 15 Mana | 2     | 10        |
+| **Nuh uh! / Yuh uh!** | Class Passive        | Passive      | Self  | Initiative: zusätzl. 1d20 (1–10 Auto-Taunt; 11–20 Anti-Taunt) | 1 Turn           | —       | 0     | 10        |
 
 ---
 
 ## 6. Equipment & Inventory
-- **Combat Vest:** +1 AC  
-- **Werkzeugset:** +1 auf zugehörige Checks  
-- **Voidbeater v1:** Damage 1d6 +2, To Hit +2  
-- **Kleeblatt-Kette:** Glücksbringer vom Bruder  (Integriert)
-- **Kleines Tool Set:** Immer dabei  
+
+| Name                | Effect                                      | To Hit | Range / Thrown | Damage Type | Damage  | AC  | Current Durability | Durability<br>MAX |
+| ------------------- | ------------------------------------------- | :----: | :------------: | :---------: | :-----: | :-: | :----------------: | :---------------: |
+| **Combat Vest**     | +1 AC                                       |   —    |       —        |      —      |    —    | +1  |         18         |        20         |
+| **Werkzeugset**     | +1 on related Checks                        |   —    |       —        |      —      |    —    |  —  |         —          |         —         |
+| **Voidbeater v1**   | Named by Herald: “Long, strong and sturdy.” |   +2   |  5 ft / 40 ft  |    blunt    | 1d6 + 2 |  —  |         28         |        35         |
+| **Kleeblatt-Kette** | Glücksbringer vom Bruder (integrated)       |   —    |       —        |      —      |    —    |  —  |         —          |         —         |
+
+

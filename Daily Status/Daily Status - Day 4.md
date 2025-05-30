@@ -33,5 +33,5 @@ Quest:
 - Daily Quest: Defeat the first Level Tower Guardian to receive rewards. Time Remaining: 24 Hours. Penalty upon Failure: Death. Lvl 4
 - Strom??: Herald reserviert einen Stromgenerator (20L) im Gegenzug 1 weiteren Chrystal zum analysieren
 
-#timmy sollte leben
-#herald is the bestest
+Quotes of note:
+- "Herald is the bestest" ***ERRROR- System hacked***

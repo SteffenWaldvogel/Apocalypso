@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9d07953204965d0",
+            "id": "1611efbbda9db2f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Leo Altmann.md",
+                "file": "Characters/Francesco Ricci.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leo Altmann"
+              "title": "Francesco Ricci"
+            }
+          },
+          {
+            "id": "b6a45356b5de4c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Noah Cicek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noah Cicek"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#timmy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,13 +193,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9d07953204965d0",
+  "active": "1611efbbda9db2f9",
   "lastOpenFiles": [
     "Characters/Jannik Hammerer.md",
     "Characters/Leo Altmann.md",
     "Characters/Francesco Ricci.md",
     "NPC/Noah Cicek.md",
     "NPC/Sarah Hirtz.md",
+    "README.md",
+    "Daily Status - Day 5.5 The Mechanicus.md",
+    "Daily Status/Daily Status - Day 2 + 3.md",
+    "Daily Status/Daily Status - Day 3.md",
+    "Daily Status/Daily Status - Day 4.md",
     "Daily Status/Daily Status - Day 5 Advance! Powerpaths..md",
     "Powerpaths/🧬 Echo Evolution Quest “Reshape Thy Flesh”.md",
     "Powerpaths/🧬 Beast Path Quest DNA of the Fallen.md",
@@ -200,9 +219,6 @@
     "NPC/Herald - Fate's Personal Jester.png",
     "NPC/Aric Sternhold - Powerpath Warden.md",
     "NPC",
-    "Daily Status/Daily Status - Day 2 + 3.md",
-    "Daily Status/Daily Status - Day 4.md",
-    "Daily Status/Daily Status - Day 3.md",
     "Daily Status",
     "Characters/Leo Altmann.png",
     "Characters/Jannik Hammerer.png",
@@ -216,8 +232,6 @@
     "Daily Status - Day 3.md",
     "Daily Status - Day 2 + 3.md",
     "🧬 Beast Path Quest DNA of the Fallen.md",
-    "🧬 Echo Evolution Quest “Reshape Thy Flesh”.md",
-    "🧠 Memory Engraving Quest “Etched in Silence”.md",
     "Classes",
     "Untitled.canvas"
   ]

@@ -17,17 +17,17 @@
 ---
 
 ## 2. Core Game Data
-| Field                     | Value                                        |
-| ------------------------- | -------------------------------------------- |
-| **Class & Path**          | Witchmarked (Lvl 2) · Echo Evolution (Lvl 1) |
-| **Consume to Next Level** | 10                                           |
-| **Corruption**            | 10 %                                         |
-| **HP**                    | 9                                            |
-| **Speed**                 | 30 ft                                        |
-| **AC**                    | 12 (+1 from Combat Vest)                     |
-| **Mana**                  | 57                                           |
-| **Stamina**               | 5                                            |
-| **Base-Stat Amplifier**   | INT +1.5 · WIS +1.8                          |
+| Field                     | Value                    | Path                 |
+| ------------------------- | ------------------------ | -------------------- |
+| **Class & Path**          | Witchmarked (Lvl 3)      | Echo Evolution Lvl 1 |
+| **Consume to Next Level** | 3 / 8                    | 3 / 10               |
+| **Corruption**            | 10 %                     |                      |
+| **HP**                    | 9                        |                      |
+| **Speed**                 | 30 ft                    |                      |
+| **AC**                    | 12 (+1 from Combat Vest) |                      |
+| **Mana**                  | 74                       |                      |
+| **Stamina**               | 7                        |                      |
+| **Base-Stat Amplifier**   | INT +1.5 · WIS +1.8      |                      |
 
 ---
 
@@ -50,39 +50,45 @@
 
 ### 4.1 Proficiency-Based Checks
 | Skill           | Key Stat | Current | Threshold | Max |
-|-----------------|:--------:|:-------:|:---------:|:---:|
-| Athletics       | STR      | 0       | 0         | 10  |
-| Acrobatics      | DEX      | 1       | 0         | 10  |
-| Sleight of Hand | DEX      | 1       | 0         | 10  |
-| Stealth         | DEX      | 1       | 0         | 10  |
-| Arcana          | INT      | 5       | 0         | 10  |
-| History         | INT      | 5       | 0         | 10  |
-| Investigation   | INT      | 5       | 0         | 10  |
-| Nature          | INT      | 5       | 0         | 10  |
-| Religion        | INT      | 5       | 0         | 10  |
-| Animal Handling | WIS      | 8       | 0         | 10  |
-| Insight         | WIS      | 8       | 0         | 10  |
-| Medicine        | WIS      | 8       | 0         | 10  |
-| Perception      | WIS      | 8       | 0         | 10  |
-| Survival        | WIS      | 8       | 0         | 10  |
-| Deception       | CHA      | 2       | 0         | 10  |
-| Intimidation    | CHA      | 2       | 0         | 10  |
-| Performance     | CHA      | 2       | 0         | 10  |
-| Persuasion      | CHA      | 2       | 0         | 10  |
-| Killing         | –        | 0       | 2         | 10  |
-| Mana Control    | –        | 1       | 0         | 25  |
+| --------------- | :------: | :-----: | :-------: | :-: |
+| Athletics       |   STR    |    0    |     0     | 10  |
+| Acrobatics      |   DEX    |    1    |     0     | 10  |
+| Sleight of Hand |   DEX    |    1    |     0     | 10  |
+| Stealth         |   DEX    |    1    |     0     | 10  |
+| Arcana          |   INT    |    5    |     0     | 10  |
+| History         |   INT    |    5    |     0     | 10  |
+| Investigation   |   INT    |    5    |     0     | 10  |
+| Nature          |   INT    |    5    |     0     | 10  |
+| Religion        |   INT    |    5    |     0     | 10  |
+| Animal Handling |   WIS    |    8    |     0     | 10  |
+| Insight         |   WIS    |    8    |     0     | 10  |
+| Medicine        |   WIS    |    8    |     0     | 10  |
+| Perception      |   WIS    |    8    |     0     | 10  |
+| Survival        |   WIS    |    8    |     0     | 10  |
+| Deception       |   CHA    |    2    |     0     | 10  |
+| Intimidation    |   CHA    |    2    |     0     | 10  |
+| Performance     |   CHA    |    2    |     0     | 10  |
+| Persuasion      |   CHA    |    2    |     0     | 10  |
+| Killing         |    –     |    0    |     2     | 10  |
+| Mana Control    |    –     |    1    |     2     | 25  |
+
 
 ---
 
 ## 5. Abilities & Feats
-| Name              | Type                    | Effect                                                                                                 | Duration   | Cost     | Notes                |
-|-------------------|-------------------------|--------------------------------------------------------------------------------------------------------|------------|----------|----------------------|
-| **Corrupted Body**| Class Passive           | Your body is less vulnerable/adapted to Corruption. +1 on WIS checks                                    | Permanent  | None     | Count 0 / Threshold – |
-| **Mana Sense**    | Mana-Control Passive    | You’re able to sense the surrounding Mana, and can control your own at a rudimentary level             | Permanent  | None     | Count 0 / Threshold – |
-| **Yar'Khul**      | Echo Evolution Active   | Against Void creatures: target makes a WIS save (DC 14); on failure: confusion and inner thoughts are revealed | 1 Turn    | 5 Mana   | Count 0 / Threshold 10 |
+| Name               | Type                  | Effect                                                                                                           | Duration  | Cost    | Count | Threshold |
+| ------------------ | --------------------- | ---------------------------------------------------------------------------------------------------------------- | --------- | ------- | ----- | --------- |
+| **Corrupted Body** | Class Passive         | Your body is less vulnerable/adapted to Corruption. +1 on WIS checks                                             | Permanent | None    | --    | --        |
+| **Mana Sense**     | Mana-Control Passive  | You’re able to sense the surrounding Mana, and can control your own at a rudimentary level                       | Permanent | None    | --    | --        |
+| **Yar'Khul**       | Echo Evolution Active | Against Void creatures: target makes a WIS save (DC 14); on failure: confusion and inner thoughts are revealed   | 1 Turn    | 5 Mana  | 0     | 10        |
+| Void Suction       | ???<br>Active         | Void Creatures that fail a Wisdom Save (14) take 1d6 dmg, Everytime the user succeeds, +1 Echo Evolution Counter | 1 Turn    | 10 Mana | 3     | 10        |
 
 ---
 
 ## 6. Equipment & Inventory
-- **Combat Vest:** +1 AC  
-- **Mother’s Mark:** arcane amulet crafted by his mother to hold the corruption at bay  
+
+| Name              | Effect                                                            | To Hit | Range / Thrown | Damage Type | Damage | AC  | Current Durability | Durability<br>MAX |
+| ----------------- | ----------------------------------------------------------------- | :----: | :------------: | :---------: | :----: | :-: | :----------------: | :---------------: |
+| **Combat Vest**   | +1 AC                                                             |   —    |       —        |      —      |   —    | +1  |         20         |        20         |
+| **Mother’s Mark** | Arcane amulet crafted by his mother to hold the corruption at bay |   —    |       —        |      —      |   —    |  —  |         —          |         —         |
+

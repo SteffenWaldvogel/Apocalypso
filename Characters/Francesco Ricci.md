@@ -19,7 +19,7 @@
 | **Class**               | Guardian (Lv 5)          | –    |
 | **XP**                  | 1 / 20 needed            |      |
 | **Corruption**          | 0 %                      |      |
-| **HP**                  | 34                       |      |
+| **HP**                  | 33                       |      |
 | **Speed**               | 30 ft                    |      |
 | **AC**                  | 15 (+1 from Combat Vest) |      |
 | **Mana**                | 41                       |      |
@@ -67,43 +67,48 @@
 | Performance     |   CHA    |    7    |     0     | 10  |
 | Persuasion      |   CHA    |    7    |     0     | 10  |
 | Scavenging      |    –     |    0    |     3     | 10  |
-| Driving         |    –     |    0    |     5     | 10  |
-| Killing         |    –     |    0    |     5     | 10  |
+| Driving         |    –     |    0    |     7     | 10  |
+| Killing         |    –     |    -    |     5     | 10  |
 | Cooking         |    –     |    0    |     2     | 10  |
 | Taunting        |    –     |    0    |     3     | 10  |
+| Mana Control    |    –     |    0    |     1     | 10  |
 
 ### 4.2 Starter-Zeugnis
 | Area        | Modifier |
-|-------------|:--------:|
-| Sprachen    | +1       |
-| Kunst       | –1       |
-| Musik       | 0        |
-| Geschichte  | +2       |
-| Politik     | +1       |
-| Erdkunde    | +1       |
-| Wirtschaft  | +1       |
-| Religion    | –1       |
-| Mathe       | 0        |
-| Physik      | 0        |
-| Chemie      | 0        |
-| Biologie    | +1       |
-| Sport       | +2       |
-| Psychologie | +3       | :contentReference[oaicite:1]{index=1}
+| ----------- | :------: |
+| Sprachen    |    +1    |
+| Kunst       |    –1    |
+| Musik       |    0     |
+| Geschichte  |    +2    |
+| Politik     |    +1    |
+| Erdkunde    |    +1    |
+| Wirtschaft  |    +1    |
+| Religion    |    –1    |
+| Mathe       |    0     |
+| Physik      |    0     |
+| Chemie      |    0     |
+| Biologie    |    +1    |
+| Sport       |    +2    |
+| Psychologie |    +3    |
 
 ---
-
 ## 5. Abilities & Feats
-| Name               | Type          | Effect                                                                                          | Duration          | Cost       | Notes                  |
-| ------------------ | ------------- | ----------------------------------------------------------------------------------------------- | ----------------- | ---------- | ---------------------- |
-| **Stone Skin**     | Class Passive | Steel yourself! For 10 turns, increase your AC by 1                                             | 10 turns          | 5 Stamina  | Count 3 / Threshold 10 |
-| **Unmoving Line**  | Class Passive | When a creature disengages from you, they provoke an opportunity attack; on hit: speed 0        | Reaction/turn     | 5 Stamina  | Count 0 / Threshold 10 |
-| **Bulwark Stance** | Class Active  | Plant your feet, don't give ground. Take half damage from all sources; allies within 5 ft +1 AC | 1 turn / Longrest | 20 Stamina | Count 0 / Threshold 10 |
-| **Attacktank**     | Class Active  | When successfully halving damage taken, empower your next attack: +2 to hit, +2 base dmg        | 1 turn            | 10 Stamina | Count 0 / Threshold 10 |
+
+| Name               | Type          | Action Type     | Range | Effect                                                                                               | Duration          | Cost       | Count | Threshold |
+| ------------------ | ------------- | --------------- | ----- | ---------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----- | --------- |
+| **Stone Skin**     | Class Passive | Passive         | Self  | Steel yourself! For 10 turns, increase your AC by 1                                                  | 10 turns          | 5 Stamina  | 4     | 10        |
+| **Unmoving Line**  | Class Passive | Reaction        | 5 ft  | When a creature disengages from you, they provoke an opportunity attack; on hit: speed 0             | Reaction/turn     | 5 Stamina  | 0     | 10        |
+| **Bulwark Stance** | Class Active  | Action          | Self  | Plant your feet, don't give ground. Take half damage from all sources; allies within 5 ft gain +1 AC | 1 turn / Longrest | 20 Stamina | 0     | 10        |
+| **Attacktank**     | Class Active  | Bonus<br>Action | Self  | When successfully halving damage taken, empower your next attack: +2 to hit, +2 base dmg             | 1 turn            | 10 Stamina | 0     | 10        |
 
 ---
 
 ## 6. Equipment & Inventory
-- **Voidbeater v1:** Damage 1d6+2, To Hit +2  
-- **Taschenmesser:** +1 on related Checks  
-- **Combat Vest:** +1 AC  
-- **Papshield:** Once every 3 turns, half the damage of one attack  
+
+| Name              | Effect                                                                                                                                          | To Hit | Range / Thrown |  Damage Type   | Damage  | AC  | Current Durability | Durability<br>MAX |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------------: | :------------: | :-----: | :-: | :----------------: | :---------------: |
+| **Voidbeater v1** | Named by General Store Manager Herald: “It’s long, strong and sturdy, unlike your little boys.”                                                 |   +2   |  5 ft / 40 ft  |     blunt      | 1d6 + 2 |     |         30         |        35         |
+| **Taschenmesser** | +1 on related Checks                                                                                                                            |   +0   |  5 ft / 60 ft  | slash / pierce |   1d4   |     |         8          |        10         |
+| **Combat Vest**   | A plastic suit you put on below or above your clothes. Who even uses that nowadays??                                                            |        |                |                |         | +1  |         15         |        20         |
+| **Papshield**     | Herald tried himself at forging for a bit… Not the most beautiful item, but it still works. Once every 3 turns, halve the damage of one attack. |   +2   |  5 ft / 10 ft  |     blunt      |   1d4   |     |         28         |        30         |
+

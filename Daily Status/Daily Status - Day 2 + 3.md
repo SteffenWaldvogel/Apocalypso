@@ -27,5 +27,5 @@ Quest:
 - Bring Herald Chrystals to purify, first 20 are free! (6/20) Time Remaining: 4 days
 - Daily Quest: Defeat the first Level Tower Guardian to receive rewards. Time Remaining: 24 Hours. Penalty upon Failure: Death.
 
-
-#timmy sollte leben
+Quotes of note:
+- "#timmy sollte leben"
