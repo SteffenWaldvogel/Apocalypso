@@ -96,7 +96,7 @@
 
 | Name               | Type          | Action Type     | Range | Effect                                                                                               | Duration          | Cost       | Count | Threshold |
 | ------------------ | ------------- | --------------- | ----- | ---------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----- | --------- |
-| **Stone Skin**     | Class Passive | Passive         | Self  | Steel yourself! For 10 turns, increase your AC by 1                                                  | 10 turns          | 5 Stamina  | 4     | 10        |
+| **Stone Skin**     | Class Passive | Passive         | Self  | For 10 turns, increase your AC by 1                                                                  | 10 turns          | 5 Stamina  | 4     | 10        |
 | **Unmoving Line**  | Class Passive | Reaction        | 5 ft  | When a creature disengages from you, they provoke an opportunity attack; on hit: speed 0             | Reaction/turn     | 5 Stamina  | 0     | 10        |
 | **Bulwark Stance** | Class Active  | Action          | Self  | Plant your feet, don't give ground. Take half damage from all sources; allies within 5 ft gain +1 AC | 1 turn / Longrest | 20 Stamina | 0     | 10        |
 | **Attacktank**     | Class Active  | Bonus<br>Action | Self  | When successfully halving damage taken, empower your next attack: +2 to hit, +2 base dmg             | 1 turn            | 10 Stamina | 0     | 10        |
@@ -105,10 +105,10 @@
 
 ## 6. Equipment & Inventory
 
-| Name              | Effect                                                                                                                                          | To Hit | Range / Thrown |  Damage Type   | Damage  | AC  | Current Durability | Durability<br>MAX |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------------: | :------------: | :-----: | :-: | :----------------: | :---------------: |
-| **Voidbeater v1** | Named by General Store Manager Herald: “It’s long, strong and sturdy, unlike your little boys.”                                                 |   +2   |  5 ft / 40 ft  |     blunt      | 1d6 + 2 |     |         30         |        35         |
-| **Taschenmesser** | +1 on related Checks                                                                                                                            |   +0   |  5 ft / 60 ft  | slash / pierce |   1d4   |     |         8          |        10         |
-| **Combat Vest**   | A plastic suit you put on below or above your clothes. Who even uses that nowadays??                                                            |        |                |                |         | +1  |         15         |        20         |
-| **Papshield**     | Herald tried himself at forging for a bit… Not the most beautiful item, but it still works. Once every 3 turns, halve the damage of one attack. |   +2   |  5 ft / 10 ft  |     blunt      |   1d4   |     |         28         |        30         |
+| Name              | Effect                                              | To Hit | Range / Thrown |  Damage Type   | Damage  | AC  | Current Durability | Durability<br>MAX |
+| ----------------- | --------------------------------------------------- | :----: | :------------: | :------------: | :-----: | :-: | :----------------: | :---------------: |
+| **Voidbeater v1** | --                                                  |   +2   |  5 ft / 40 ft  |     blunt      | 1d6 + 2 |     |         30         |        35         |
+| **Taschenmesser** | +1 on related Checks                                |   +0   |  5 ft / 60 ft  | slash / pierce |   1d4   |     |         8          |        10         |
+| **Combat Vest**   | Light Armor                                         |        |                |                |         | +1  |         15         |        20         |
+| **Papshield**     | Once every 3 turns, halve the damage of one attack. |   +2   |  5 ft / 10 ft  |     blunt      |   1d4   |     |         28         |        30         |
 

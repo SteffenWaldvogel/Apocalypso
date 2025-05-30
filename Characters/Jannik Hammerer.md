@@ -107,9 +107,9 @@
 
 ## 6. Equipment & Inventory
 
-| Name             | Effect                                                                                                                                                             | To Hit | Range / Thrown | Damage Type | Damage  | AC  | Current Durability | Durability<br>MAX |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----: | :------------: | :---------: | :-----: | :-: | :----------------: | :---------------: |
-| **Steel Hands**  | Forged by a dwarf on Xenon. This special material melts to fit onto your skin; once per long rest can use *Enhance Fist* without cost.                             |   +1   |      5 ft      |    blunt    | 1d6 + 2 |     |         48         |        50         |
-| **Combat Vest**  | A plastic suit you put on below or above your clothes. Who even uses that nowadays??                                                                               |   —    |       —        |      —      |    —    | +1  |         16         |        20         |
-| **Brick “Erzi”** | Formed from the body of the 1st Earth King, unrightfully stolen from the Elementals. Enchantment: automatic return; on crit target is prone and damage is tripled. |   +2   |     60 ft      |    blunt    | 1d8 + 2 |  —  |        150         |        150        |
+| Name             | Effect                                                                        | To Hit | Range / Thrown | Damage Type | Damage  | AC  | Current Durability | Durability<br>MAX |
+| ---------------- | ----------------------------------------------------------------------------- | :----: | :------------: | :---------: | :-----: | :-: | :----------------: | :---------------: |
+| **Steel Hands**  | Once per long rest can use *Enhance Fist* without cost.                       |   +1   |      5 ft      |    blunt    | 1d6 + 2 |     |         48         |        50         |
+| **Combat Vest**  | Light Armor                                                                   |   —    |       —        |      —      |    —    | +1  |         16         |        20         |
+| **Brick “Erzi”** | Enchantment: automatic return; on crit target is prone and damage is tripled. |   +2   |     60 ft      |    blunt    | 1d8 + 2 |  —  |        150         |        150        |
 
