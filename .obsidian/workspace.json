@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Francesco Ricci.md",
+                "file": "Apocalypso Skill List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Francesco Ricci"
+              "title": "Apocalypso Skill List"
             }
           },
           {
-            "id": "b6a45356b5de4c4c",
+            "id": "12f013294a755fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Noah Cicek.md",
+                "file": "Apocalypso Item List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noah Cicek"
+              "title": "Apocalypso Item List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,11 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1611efbbda9db2f9",
+  "active": "12f013294a755fc9",
   "lastOpenFiles": [
-    "Characters/Jannik Hammerer.md",
+    "Apocalypso Skill List.md",
+    "Apocalypso Item List.md",
     "Characters/Leo Altmann.md",
     "Characters/Francesco Ricci.md",
+    "Characters/Jannik Hammerer.md",
     "NPC/Noah Cicek.md",
     "NPC/Sarah Hirtz.md",
     "README.md",
@@ -230,8 +233,6 @@
     "Daily Status - Day 5 Advance! Powerpaths..md",
     "Daily Status - Day 4.md",
     "Daily Status - Day 3.md",
-    "Daily Status - Day 2 + 3.md",
-    "🧬 Beast Path Quest DNA of the Fallen.md",
     "Classes",
     "Untitled.canvas"
   ]
